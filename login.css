@@ -1,0 +1,9 @@
+body{
+    background-image: url(/images/th.jpeg);
+    background-size: cover;
+}
+.container-fluid{
+    background-color:bisque;
+    width: 30%;
+    
+}
